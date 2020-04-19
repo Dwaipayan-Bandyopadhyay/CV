@@ -1,0 +1,147 @@
+body{
+  color: #40514E;
+  padding: 0;
+  border: 0;
+  margin: 0;
+  text-align: center;
+}
+
+div{
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 100px;
+  color: #66BFBF;
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+
+h2{
+  font-family: 'Indie Flower', cursive;
+  font-size: 60px;
+  color: #66BFBF;
+  line-height: 0.5;
+}
+
+h3{
+  font-family: 'Comic Neue', cursive;
+  font-size: 40px;
+  color: #11999E;
+}
+
+p{
+  font-family: 'Russo One', sans-serif;
+  font-size: 20px;
+  line-height: 2;
+}
+
+a{
+  font-family: 'Russo One', sans-serif;
+  font-size: 20px;
+  color: #11999E;
+}
+
+hr{
+    border:none;
+    border-top:10px dotted #11999E;
+    width: 10%;
+}
+
+/*Class styling*/
+.top_container{
+  position: relative;
+  padding-top: 100px;
+  background-color: #EAF6F6;
+}
+
+.middle_container{
+  position: relative;
+}
+
+.bottom_container{
+  position: relative;
+  top: 30px;
+  bottom: 200px;
+  background-color: #66BFBF;
+}
+
+.cloud1{
+  position: absolute;
+  right: 25%;
+}
+
+.my_def{
+  top: 120px;
+}
+
+.cloud2{
+  position: absolute;
+  top: 200px;
+  left: 25%;
+}
+
+.mountain1{
+  top: 200px;
+}
+
+.skills{
+  position: relative;
+}
+
+.snow_skill{
+  display: inline-block;
+  position: relative;
+  right: 50px;
+  line-height: 0.5;
+}
+
+.html_skill{
+  display: inline-block;
+  line-height: 0.5;
+}
+
+.css_skill{
+  display: inline-block;
+  position: relative;
+  left: 50px;
+  line-height: 0.5;
+}
+
+.snow{
+  display: inline-block;
+}
+
+.html{
+  display: inline-block;
+}
+
+.css{
+  display: inline-block;
+}
+
+.contact{
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.hr1{
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.My_Picture{
+  border-radius: 50%;
+  position: relative;
+  top: 25px;
+}
+
+.copyRight{
+  color: #EAF6F6;
+}
